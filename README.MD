@@ -11,7 +11,7 @@
 ---
 ## Problem Definition
 
-### The current website is less engaging, the profile/project dashboard doesn’t exist and minimal search options.
+#### The current website is less engaging, the profile/project dashboard doesn’t exist and minimal search options.
 ---
 ## Project Background & Business Need/Opportunity Background
 
